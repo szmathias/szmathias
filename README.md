@@ -6,7 +6,7 @@ Software developer focused on systems programming, backend development, and data
 
 ## Current Work
 
-- **[Anvil](https://github.com/szmathias/Anvil)** — A C11 data structures library with custom allocators, generic iterators, and functional programming support. 1,072+ test assertions, sanitizer-clean.
+- **[Anvil](https://github.com/szmathias/Anvil)** — A C11 data structures library with custom allocators, generic iterators, and functional programming support. Sanitizer-clean.
 - **[Simple Shell](https://github.com/szmathias/Simple-Shell)** — A POSIX-compatible shell in C with process management, I/O redirection, and job control.
 - **[WGUPS Routing Simulator](https://github.com/szmathias/WGUPS-Routing-Program)** — Package delivery route optimization in Python using custom hash tables and nearest-neighbor heuristics.
 
